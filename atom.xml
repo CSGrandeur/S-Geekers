@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>淡水河畔</title>
+  
+  <subtitle>校园信息集散地</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-03T13:13:42.087Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>河畔人</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/03/03/hello-world/"/>
+    <id>http://example.com/2021/03/03/hello-world/</id>
+    <published>2021-03-03T11:57:07.216Z</published>
+    <updated>2021-03-03T13:13:42.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到 淡水河畔 ！</p><p>我们时不时会精选一些 S-Geekers 论坛内的贴子与新闻与大家一起分享，一起成长！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到 淡水河畔 ！&lt;/p&gt;
+&lt;p&gt;我们时不时会精选一些 S-Geekers 论坛内的贴子与新闻与大家一起分享，一起成长！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
