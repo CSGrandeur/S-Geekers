@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://csgrandeur.gitee.io/s-geekers/2021/03/03/hello-world/</loc>
+    <loc>https://csgrandeur.gitee.io/s-geekers/2021/03/03/hello-world/</loc>
     
     <lastmod>2021-03-03</lastmod>
     
@@ -10,7 +10,7 @@
   
 
   <url>
-    <loc>http://csgrandeur.gitee.io/s-geekers</loc>
+    <loc>https://csgrandeur.gitee.io/s-geekers</loc>
     <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
