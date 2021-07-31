@@ -3,11 +3,11 @@
   <title>淡水河畔</title>
   
   <subtitle>校园信息集散地</subtitle>
-  <link href="https://csgrandeur.gitee.io/s-geekers/atom.xml" rel="self"/>
+  <link href="https://csgrandeur.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://csgrandeur.gitee.io/s-geekers/"/>
+  <link href="https://csgrandeur.gitee.io/"/>
   <updated>2021-07-31T03:01:58.740Z</updated>
-  <id>https://csgrandeur.gitee.io/s-geekers/</id>
+  <id>https://csgrandeur.gitee.io/</id>
   
   <author>
     <name>河畔人</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>这是什么？</title>
-    <link href="https://csgrandeur.gitee.io/s-geekers/2021/07/31/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
-    <id>https://csgrandeur.gitee.io/s-geekers/2021/07/31/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</id>
+    <link href="https://csgrandeur.gitee.io/2021/07/31/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+    <id>https://csgrandeur.gitee.io/2021/07/31/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</id>
     <published>2021-07-31T02:47:38.000Z</published>
     <updated>2021-07-31T03:01:58.740Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="官方资讯" scheme="https://csgrandeur.gitee.io/s-geekers/categories/%E5%AE%98%E6%96%B9%E8%B5%84%E8%AE%AF/"/>
+    <category term="官方资讯" scheme="https://csgrandeur.gitee.io/categories/%E5%AE%98%E6%96%B9%E8%B5%84%E8%AE%AF/"/>
     
     
-    <category term="简介" scheme="https://csgrandeur.gitee.io/s-geekers/tags/%E7%AE%80%E4%BB%8B/"/>
+    <category term="简介" scheme="https://csgrandeur.gitee.io/tags/%E7%AE%80%E4%BB%8B/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://csgrandeur.gitee.io/s-geekers/2021/03/03/hello-world/"/>
-    <id>https://csgrandeur.gitee.io/s-geekers/2021/03/03/hello-world/</id>
+    <link href="https://csgrandeur.gitee.io/2021/03/03/hello-world/"/>
+    <id>https://csgrandeur.gitee.io/2021/03/03/hello-world/</id>
     <published>2021-03-03T11:57:07.216Z</published>
     <updated>2021-03-03T13:13:42.087Z</updated>
     
