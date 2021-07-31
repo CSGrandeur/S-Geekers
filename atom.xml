@@ -6,7 +6,7 @@
   <link href="https://csgrandeur.gitee.io/s-geekers/atom.xml" rel="self"/>
   
   <link href="https://csgrandeur.gitee.io/s-geekers/"/>
-  <updated>2021-03-03T13:13:42.087Z</updated>
+  <updated>2021-07-31T03:01:58.740Z</updated>
   <id>https://csgrandeur.gitee.io/s-geekers/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是什么？</title>
+    <link href="https://csgrandeur.gitee.io/s-geekers/2021/07/31/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+    <id>https://csgrandeur.gitee.io/s-geekers/2021/07/31/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</id>
+    <published>2021-07-31T02:47:38.000Z</published>
+    <updated>2021-07-31T03:01:58.740Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="技术部是什么呢？"><a href="#技术部是什么呢？" class="headerlink" title="技术部是什么呢？"></a>技术部是什么呢？</h3><p>我们计算机类大学生在大学生涯中一般会有三个发展方向，一是算法方向，二是工程开发方向，最后一种是摸鱼方向。我们协会的技术部就为同学们提供了一个工程开发方向的学习交流的平台。</p><h3 id="技术部平时做什么？"><a href="#技术部平时做什么？" class="headerlink" title="技术部平时做什么？"></a>技术部平时做什么？</h3><p>我们会有三种活动<br>一，我们会组织项目的开发，将自己的想法变为现实。<br>二，我们还会参加各种比赛，挑战自己<br>三，有机会的话，我们也会参与一些学校系统的维护</p><p>我们认为，有两件事情对我们的计算机类学生的来说是比较重要的。一是开源意识，二是团队开发。我们站在巨人的肩膀，同时我们也不能单打独斗。所以，我们技术部的灵魂就在这里，我们会一起维护一个公共Wiki/文档，记录我们踩过的坑以及一些小技巧，培养我们的开源意识；我们还会积极组织项目的开发，将我们的想法变为现实，积累我们的团队开发经验。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>总之，我们就是一群热爱开发的小伙伴，比起工程技术部，我们更喜欢称它为深技大的极客集散地。不论是App开发或是WEB编程，不论是PHP还是C#，我们来者不拒，因为热爱没有界限。</p><p>最后来个官方<del>牛皮藓</del>，这里是咱们技大极客集散地的论坛，欢迎大家来讨论交流w</p><p><a href="https://github.com/CSGrandeur/S-Geekers/discussions">https://github.com/CSGrandeur/S-Geekers/discussions</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;技术部是什么呢？&quot;&gt;&lt;a href=&quot;#技术部是什么呢？&quot; class=&quot;headerlink&quot; title=&quot;技术部是什么呢？&quot;&gt;&lt;/a&gt;技术部是什么呢？&lt;/h3&gt;&lt;p&gt;我们计算机类大学生在大学生涯中一般会有三个发展方向，一是算法方向，二是工程开发方向，最后一种</summary>
+      
+    
+    
+    
+    <category term="官方资讯" scheme="https://csgrandeur.gitee.io/s-geekers/categories/%E5%AE%98%E6%96%B9%E8%B5%84%E8%AE%AF/"/>
+    
+    
+    <category term="简介" scheme="https://csgrandeur.gitee.io/s-geekers/tags/%E7%AE%80%E4%BB%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
